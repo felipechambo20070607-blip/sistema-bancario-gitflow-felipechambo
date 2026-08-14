@@ -9,3 +9,5 @@ VALIDACIONES AVANZADAS DE CLIENTES
 - Validar formato de correo
 - Validar longitud del documento
 - Evitar clientes duplicados
+
+AJUSTE A2
