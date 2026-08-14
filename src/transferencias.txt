@@ -3,3 +3,9 @@ AUDITORÍA BÁSICA DE TRANSFERENCIAS
 - Registrar monto transferido
 - Registrar fecha
 - Registrar cuentas involucradas
+
+AUDITORÍA AVANZADA DE TRANSFERENCIAS
+
+- Detectar operaciones inusuales
+- Registrar dirección IP
+- Generar historial de movimientos
