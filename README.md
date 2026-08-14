@@ -12,3 +12,7 @@ Proyecto académico desarrollado para practicar Git, GitHub y Git Flow.
 ## Versión 1.0.0
 
 Primera versión estable del sistema bancario.
+
+## Corrección 1.0.1
+
+Se corrige y mejora la documentación del proyecto.
