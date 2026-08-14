@@ -1,0 +1,5 @@
+CONTROLES BÁSICOS DE SEGURIDAD PARA CUENTAS
+
+- Verificar saldo mínimo
+- Validar número de cuenta
+- Registrar fecha de creación
