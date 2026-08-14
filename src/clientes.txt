@@ -3,3 +3,9 @@ VALIDACIONES BÁSICAS DE CLIENTES
 - Verificar nombre obligatorio
 - Verificar documento obligatorio
 - Verificar correo obligatorio
+
+VALIDACIONES AVANZADAS DE CLIENTES
+
+- Validar formato de correo
+- Validar longitud del documento
+- Evitar clientes duplicados
